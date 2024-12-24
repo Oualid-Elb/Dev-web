@@ -1,0 +1,35 @@
+body {
+    font-family: cursive;
+    margin: 0;
+}
+
+h1 {
+    color: blue;
+    background-color: rgb(219, 201, 201);
+}
+
+p {
+    background-color: yellow;
+}
+
+h2 {
+    color: red;
+}
+
+a {
+    color: green;
+}
+
+.container {
+    width: 300px;
+    background-color: pink;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.section {
+    border: 1px solid black;
+    margin: 5px;
+    background-color: beige;
+}
